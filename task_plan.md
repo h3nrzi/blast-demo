@@ -11,12 +11,12 @@ Building a clean, responsive AI News & Article Dashboard using public RSS feeds,
 - [x] 1.1 Complete 5 Discovery North Star Questions
 - [x] 1.2 Formulate Input & Output JSON Schemas (`raw_feed_item.json`, `processed_dashboard_payload.json`)
 - [x] 1.3 Create `gemini.md`, `task_plan.md`, and `findings.md`
-- [ ] 1.4 Submit Schemas for CTO Approval (PAUSED / AWAITING APPROVAL)
+- [x] 1.4 Submit Schemas for CTO Approval (APPROVED)
 
 ### Phase 2: Link (Connectivity & Handshake Verification)
-- [ ] 2.1 Verify public RSS feed endpoints (HackerNews API, arXiv AI RSS, TechCrunch AI RSS, MIT Tech Review)
-- [ ] 2.2 Build atomic handshake tool in `tools/fetch_rss_raw.py` to test feed connectivity and fail-fast handling
-- [ ] 2.3 Store test payload samples in `.tmp/raw_feeds.json`
+- [x] 2.1 Verify public RSS feed endpoints (HackerNews API, arXiv AI RSS, TechCrunch AI RSS)
+- [x] 2.2 Build atomic handshake tool in `tools/fetch_rss_raw.py` to test feed connectivity and fail-fast handling
+- [x] 2.3 Store test payload samples in `.tmp/raw_feeds.json` (35 items fetched successfully)
 
 ### Phase 3: Architect (A.N.T. 3-Layer Build)
 - [ ] 3.1 **Layer 1 (Architecture)**: Write `architecture/ingest_pipeline_sop.md` and `architecture/dashboard_ui_sop.md`
