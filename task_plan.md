@@ -19,12 +19,12 @@ Building a clean, responsive AI News & Article Dashboard using public RSS feeds,
 - [x] 2.3 Store test payload samples in `.tmp/raw_feeds.json` (35 items fetched successfully)
 
 ### Phase 3: Architect (A.N.T. 3-Layer Build)
-- [ ] 3.1 **Layer 1 (Architecture)**: Write `architecture/ingest_pipeline_sop.md` and `architecture/dashboard_ui_sop.md`
-- [ ] 3.2 **Layer 3 (Tools)**: Build single-purpose atomic tools:
-  - `tools/fetch_rss_raw.py`: Fetch & validate RSS/JSON feeds
-  - `tools/categorize_articles.py`: Categorize & clean articles into standard categories
-  - `tools/store_bookmarks.py`: Persist and toggle user bookmarks
-- [ ] 3.3 **Layer 2 (Navigation)**: Build main orchestration entry point `main.py` / `server.js`
+- [x] 3.1 **Layer 1 (Architecture)**: Write `architecture/ingest_pipeline_sop.md` and `architecture/dashboard_ui_sop.md`
+- [x] 3.2 **Layer 3 (Tools)**: Build single-purpose atomic tools:
+  - [x] `tools/fetch_rss_raw.py`: Fetch & validate RSS/JSON feeds
+  - [x] `tools/categorize_articles.py`: Categorize & clean articles into standard categories
+  - [x] `tools/store_bookmarks.py`: Persist and toggle user bookmarks
+- [x] 3.3 **Layer 2 (Navigation)**: Build main orchestration entry point `main.py`
 
 ### Phase 4: Stylize (UI & Aesthetics)
 - [ ] 4.1 Build modern, dynamic Web Dashboard interface (HTML/CSS/JS or Vite React)

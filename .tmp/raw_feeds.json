@@ -1,20 +1,11 @@
 [
   {
-    "id": "a41c9eabba36e5abb9414f4c1bb72ac9ff8b6ee9c1d8a61817b643c3e781aa4e",
-    "title": "AI's top startups are barely publishing their research",
-    "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-    "source": "Hacker News",
-    "published_at": "2026-07-29T21:25:40+00:00",
-    "summary": "Score: 444 | Comments: 231",
-    "author": "YeGoblynQueenne"
-  },
-  {
     "id": "7b9c5f12ff2690744846c23228a4f9c739e1a837b4d2566678f974f2dcfabf7e",
     "title": "Superlogical",
     "link": "https://www.superlogical.com/",
     "source": "Hacker News",
     "published_at": "2026-07-29T15:41:33+00:00",
-    "summary": "Score: 688 | Comments: 409",
+    "summary": "Score: 694 | Comments: 409",
     "author": "yan"
   },
   {
@@ -23,17 +14,17 @@
     "link": "https://christianselig.com/2026/07/vision-pro-house/",
     "source": "Hacker News",
     "published_at": "2026-07-29T20:39:40+00:00",
-    "summary": "Score: 644 | Comments: 257",
+    "summary": "Score: 647 | Comments: 259",
     "author": "robbiet480"
   },
   {
-    "id": "49f900f7ea023fafef7b1ca2742d598e5ee0fc3b56dc30bed9ca8fd2ea1712ed",
-    "title": "I Have Thoughts on the iPhone Air",
-    "link": "https://christianselig.com/2026/07/iphone-air-review/",
+    "id": "a41c9eabba36e5abb9414f4c1bb72ac9ff8b6ee9c1d8a61817b643c3e781aa4e",
+    "title": "AI's top startups are barely publishing their research",
+    "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
     "source": "Hacker News",
-    "published_at": "2026-07-30T07:54:13+00:00",
-    "summary": "Score: 33 | Comments: 33",
-    "author": "janandonly"
+    "published_at": "2026-07-29T21:25:40+00:00",
+    "summary": "Score: 450 | Comments: 233",
+    "author": "YeGoblynQueenne"
   },
   {
     "id": "207147adf6b2816e76de26600b67ddcf4495ec5e0292e2318391d85c281af09d",
@@ -41,7 +32,7 @@
     "link": "https://github.com/drumih/turbo-fieldfare",
     "source": "Hacker News",
     "published_at": "2026-07-29T15:05:43+00:00",
-    "summary": "Score: 788 | Comments: 276",
+    "summary": "Score: 789 | Comments: 277",
     "author": "gitpusher42"
   },
   {
@@ -50,8 +41,17 @@
     "link": "https://llm2human.pages.dev/",
     "source": "Hacker News",
     "published_at": "2026-07-29T22:51:03+00:00",
-    "summary": "Score: 231 | Comments: 58",
+    "summary": "Score: 239 | Comments: 61",
     "author": "8thom"
+  },
+  {
+    "id": "891eee327ba50d288ec42f0a7aa94024fc1a2d85d2ecd23e35c2de2bb45fe4aa",
+    "title": "The Cold Email",
+    "link": "https://zachholman.com/posts/cold-email",
+    "source": "Hacker News",
+    "published_at": "2026-07-29T21:06:42+00:00",
+    "summary": "Score: 204 | Comments: 81",
+    "author": "holman"
   },
   {
     "id": "60b8888c25bec54b7cfde2f2c3a9f213149a45d5b1b9897a9aa0612ce41ad293",
@@ -59,17 +59,8 @@
     "link": "https://frantic.im/mirage/",
     "source": "Hacker News",
     "published_at": "2026-07-29T23:18:11+00:00",
-    "summary": "Score: 223 | Comments: 79",
+    "summary": "Score: 226 | Comments: 86",
     "author": "msephton"
-  },
-  {
-    "id": "809585e3329dde207c565a5b3b4bed70137fcac452eba956475e5433b158cb8a",
-    "title": "Keychron announces first open-source firmware for gaming mice",
-    "link": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-    "source": "Hacker News",
-    "published_at": "2026-07-29T16:36:59+00:00",
-    "summary": "Score: 370 | Comments: 149",
-    "author": "JLO64"
   },
   {
     "id": "0a5bc62a8d87c5d9d7e58d9075e98989d0ce5c9a232040e8751eac2de970d2f1",
@@ -81,12 +72,21 @@
     "author": "artninja1988"
   },
   {
+    "id": "809585e3329dde207c565a5b3b4bed70137fcac452eba956475e5433b158cb8a",
+    "title": "Keychron announces first open-source firmware for gaming mice",
+    "link": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+    "source": "Hacker News",
+    "published_at": "2026-07-29T16:36:59+00:00",
+    "summary": "Score: 374 | Comments: 150",
+    "author": "JLO64"
+  },
+  {
     "id": "b9a2cfe9d25ddcdd6280015d8b85b1bc29ad705a67e15000bbff3cf3b8b793bc",
     "title": "Logic for Programmers",
     "link": "https://logicforprogrammers.com/",
     "source": "Hacker News",
     "published_at": "2026-07-30T00:51:39+00:00",
-    "summary": "Score: 112 | Comments: 16",
+    "summary": "Score: 119 | Comments: 20",
     "author": "_doctor_love"
   },
   {
@@ -95,35 +95,8 @@
     "link": "https://www.n16f.net/blog/concurrency-interactivity-mutability-choose-two/",
     "source": "Hacker News",
     "published_at": "2026-07-27T06:38:54+00:00",
-    "summary": "Score: 15 | Comments: 5",
+    "summary": "Score: 17 | Comments: 8",
     "author": "billiob"
-  },
-  {
-    "id": "26626e6524ef15f1e8fc442a16546bb154efbaec051e6998bea18db787e526fb",
-    "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
-    "link": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
-    "source": "Hacker News",
-    "published_at": "2026-07-29T14:43:47+00:00",
-    "summary": "Score: 281 | Comments: 347",
-    "author": "thm"
-  },
-  {
-    "id": "f89b014af1b3cb7a021d6117346e90ba1eb30080282896d063f97a0be1e7cb2a",
-    "title": "ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison",
-    "link": "https://www.qoitech.com/blog/esp32-c6-power-consumption-comparison/",
-    "source": "Hacker News",
-    "published_at": "2026-07-25T18:27:41+00:00",
-    "summary": "Score: 20 | Comments: 4",
-    "author": "hasheddan"
-  },
-  {
-    "id": "891eee327ba50d288ec42f0a7aa94024fc1a2d85d2ecd23e35c2de2bb45fe4aa",
-    "title": "The Cold Email",
-    "link": "https://zachholman.com/posts/cold-email",
-    "source": "Hacker News",
-    "published_at": "2026-07-29T21:06:42+00:00",
-    "summary": "Score: 202 | Comments: 80",
-    "author": "holman"
   },
   {
     "id": "5d0f1ed149c934488ad92f5c36cdf382cb572a9e249c0076ff115eb445e7e942",
@@ -131,8 +104,35 @@
     "link": "https://www.kimi.com/code/docs/en/kimi-code/models",
     "source": "Hacker News",
     "published_at": "2026-07-29T19:25:33+00:00",
-    "summary": "Score: 428 | Comments: 124",
+    "summary": "Score: 429 | Comments: 125",
     "author": "monneyboi"
+  },
+  {
+    "id": "f89b014af1b3cb7a021d6117346e90ba1eb30080282896d063f97a0be1e7cb2a",
+    "title": "ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison",
+    "link": "https://www.qoitech.com/blog/esp32-c6-power-consumption-comparison/",
+    "source": "Hacker News",
+    "published_at": "2026-07-25T18:27:41+00:00",
+    "summary": "Score: 22 | Comments: 4",
+    "author": "hasheddan"
+  },
+  {
+    "id": "26626e6524ef15f1e8fc442a16546bb154efbaec051e6998bea18db787e526fb",
+    "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
+    "link": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+    "source": "Hacker News",
+    "published_at": "2026-07-29T14:43:47+00:00",
+    "summary": "Score: 281 | Comments: 348",
+    "author": "thm"
+  },
+  {
+    "id": "910151b049b28ff73def5d06d5d123c78dd010946a3a016ffdbef25f13895637",
+    "title": "Show HN: CheapFoodMap \u2013 A map of good meals under $10",
+    "link": "https://cheapfoodmap.com/",
+    "source": "Hacker News",
+    "published_at": "2026-07-29T16:59:52+00:00",
+    "summary": "Score: 207 | Comments: 191",
+    "author": "jaep1"
   },
   {
     "id": "2c943f1486d07e51d291b2dbb44a3098cdc32749090ce297b6c5ff5b51f7ff63",
