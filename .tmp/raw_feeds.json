@@ -1,12 +1,30 @@
 [
   {
+    "id": "207147adf6b2816e76de26600b67ddcf4495ec5e0292e2318391d85c281af09d",
+    "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+    "link": "https://github.com/drumih/turbo-fieldfare",
+    "source": "Hacker News",
+    "published_at": "2026-07-29T15:05:43+00:00",
+    "summary": "Score: 806 | Comments: 283",
+    "author": "gitpusher42"
+  },
+  {
     "id": "7b9c5f12ff2690744846c23228a4f9c739e1a837b4d2566678f974f2dcfabf7e",
     "title": "Superlogical",
     "link": "https://www.superlogical.com/",
     "source": "Hacker News",
     "published_at": "2026-07-29T15:41:33+00:00",
-    "summary": "Score: 694 | Comments: 409",
+    "summary": "Score: 705 | Comments: 413",
     "author": "yan"
+  },
+  {
+    "id": "9689cbc5c5f904d855083db7cadf15aabc9139a0ea1a7945806549511c8afe33",
+    "title": "LLM Honeypot",
+    "link": "https://llm2human.pages.dev/",
+    "source": "Hacker News",
+    "published_at": "2026-07-29T22:51:03+00:00",
+    "summary": "Score: 260 | Comments: 68",
+    "author": "8thom"
   },
   {
     "id": "8eea91659561cd34c737f90b790cf5c59fdb66f771b18e5f8815098630265019",
@@ -14,7 +32,7 @@
     "link": "https://christianselig.com/2026/07/vision-pro-house/",
     "source": "Hacker News",
     "published_at": "2026-07-29T20:39:40+00:00",
-    "summary": "Score: 647 | Comments: 259",
+    "summary": "Score: 673 | Comments: 262",
     "author": "robbiet480"
   },
   {
@@ -23,53 +41,8 @@
     "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
     "source": "Hacker News",
     "published_at": "2026-07-29T21:25:40+00:00",
-    "summary": "Score: 450 | Comments: 233",
+    "summary": "Score: 479 | Comments: 245",
     "author": "YeGoblynQueenne"
-  },
-  {
-    "id": "207147adf6b2816e76de26600b67ddcf4495ec5e0292e2318391d85c281af09d",
-    "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-    "link": "https://github.com/drumih/turbo-fieldfare",
-    "source": "Hacker News",
-    "published_at": "2026-07-29T15:05:43+00:00",
-    "summary": "Score: 789 | Comments: 277",
-    "author": "gitpusher42"
-  },
-  {
-    "id": "9689cbc5c5f904d855083db7cadf15aabc9139a0ea1a7945806549511c8afe33",
-    "title": "LLM Honeypot",
-    "link": "https://llm2human.pages.dev/",
-    "source": "Hacker News",
-    "published_at": "2026-07-29T22:51:03+00:00",
-    "summary": "Score: 239 | Comments: 61",
-    "author": "8thom"
-  },
-  {
-    "id": "891eee327ba50d288ec42f0a7aa94024fc1a2d85d2ecd23e35c2de2bb45fe4aa",
-    "title": "The Cold Email",
-    "link": "https://zachholman.com/posts/cold-email",
-    "source": "Hacker News",
-    "published_at": "2026-07-29T21:06:42+00:00",
-    "summary": "Score: 204 | Comments: 81",
-    "author": "holman"
-  },
-  {
-    "id": "60b8888c25bec54b7cfde2f2c3a9f213149a45d5b1b9897a9aa0612ce41ad293",
-    "title": "The Productivity Mirage",
-    "link": "https://frantic.im/mirage/",
-    "source": "Hacker News",
-    "published_at": "2026-07-29T23:18:11+00:00",
-    "summary": "Score: 226 | Comments: 86",
-    "author": "msephton"
-  },
-  {
-    "id": "0a5bc62a8d87c5d9d7e58d9075e98989d0ce5c9a232040e8751eac2de970d2f1",
-    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-    "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "source": "Hacker News",
-    "published_at": "2026-07-28T20:28:33+00:00",
-    "summary": "Score: 379 | Comments: 211",
-    "author": "artninja1988"
   },
   {
     "id": "809585e3329dde207c565a5b3b4bed70137fcac452eba956475e5433b158cb8a",
@@ -77,17 +50,17 @@
     "link": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
     "source": "Hacker News",
     "published_at": "2026-07-29T16:36:59+00:00",
-    "summary": "Score: 374 | Comments: 150",
+    "summary": "Score: 382 | Comments: 152",
     "author": "JLO64"
   },
   {
-    "id": "b9a2cfe9d25ddcdd6280015d8b85b1bc29ad705a67e15000bbff3cf3b8b793bc",
-    "title": "Logic for Programmers",
-    "link": "https://logicforprogrammers.com/",
+    "id": "60b8888c25bec54b7cfde2f2c3a9f213149a45d5b1b9897a9aa0612ce41ad293",
+    "title": "The Productivity Mirage",
+    "link": "https://frantic.im/mirage/",
     "source": "Hacker News",
-    "published_at": "2026-07-30T00:51:39+00:00",
-    "summary": "Score: 119 | Comments: 20",
-    "author": "_doctor_love"
+    "published_at": "2026-07-29T23:18:11+00:00",
+    "summary": "Score: 248 | Comments: 97",
+    "author": "msephton"
   },
   {
     "id": "52ecc21a8e6853e2e191142f06fa6e1c34ebea0d199630348bd3a9e4678b0c30",
@@ -95,26 +68,35 @@
     "link": "https://www.n16f.net/blog/concurrency-interactivity-mutability-choose-two/",
     "source": "Hacker News",
     "published_at": "2026-07-27T06:38:54+00:00",
-    "summary": "Score: 17 | Comments: 8",
+    "summary": "Score: 25 | Comments: 10",
     "author": "billiob"
   },
   {
-    "id": "5d0f1ed149c934488ad92f5c36cdf382cb572a9e249c0076ff115eb445e7e942",
-    "title": "Kimi K3-256k",
-    "link": "https://www.kimi.com/code/docs/en/kimi-code/models",
+    "id": "0a5bc62a8d87c5d9d7e58d9075e98989d0ce5c9a232040e8751eac2de970d2f1",
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+    "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
     "source": "Hacker News",
-    "published_at": "2026-07-29T19:25:33+00:00",
-    "summary": "Score: 429 | Comments: 125",
-    "author": "monneyboi"
+    "published_at": "2026-07-28T20:28:33+00:00",
+    "summary": "Score: 386 | Comments: 212",
+    "author": "artninja1988"
   },
   {
-    "id": "f89b014af1b3cb7a021d6117346e90ba1eb30080282896d063f97a0be1e7cb2a",
-    "title": "ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison",
-    "link": "https://www.qoitech.com/blog/esp32-c6-power-consumption-comparison/",
+    "id": "891eee327ba50d288ec42f0a7aa94024fc1a2d85d2ecd23e35c2de2bb45fe4aa",
+    "title": "The Cold Email",
+    "link": "https://zachholman.com/posts/cold-email",
     "source": "Hacker News",
-    "published_at": "2026-07-25T18:27:41+00:00",
-    "summary": "Score: 22 | Comments: 4",
-    "author": "hasheddan"
+    "published_at": "2026-07-29T21:06:42+00:00",
+    "summary": "Score: 220 | Comments: 84",
+    "author": "holman"
+  },
+  {
+    "id": "b9a2cfe9d25ddcdd6280015d8b85b1bc29ad705a67e15000bbff3cf3b8b793bc",
+    "title": "Logic for Programmers",
+    "link": "https://logicforprogrammers.com/",
+    "source": "Hacker News",
+    "published_at": "2026-07-30T00:51:39+00:00",
+    "summary": "Score: 131 | Comments: 25",
+    "author": "_doctor_love"
   },
   {
     "id": "26626e6524ef15f1e8fc442a16546bb154efbaec051e6998bea18db787e526fb",
@@ -122,17 +104,35 @@
     "link": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
     "source": "Hacker News",
     "published_at": "2026-07-29T14:43:47+00:00",
-    "summary": "Score: 281 | Comments: 348",
+    "summary": "Score: 288 | Comments: 355",
     "author": "thm"
   },
   {
-    "id": "910151b049b28ff73def5d06d5d123c78dd010946a3a016ffdbef25f13895637",
-    "title": "Show HN: CheapFoodMap \u2013 A map of good meals under $10",
-    "link": "https://cheapfoodmap.com/",
+    "id": "f89b014af1b3cb7a021d6117346e90ba1eb30080282896d063f97a0be1e7cb2a",
+    "title": "ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison",
+    "link": "https://www.qoitech.com/blog/esp32-c6-power-consumption-comparison/",
     "source": "Hacker News",
-    "published_at": "2026-07-29T16:59:52+00:00",
-    "summary": "Score: 207 | Comments: 191",
-    "author": "jaep1"
+    "published_at": "2026-07-25T18:27:41+00:00",
+    "summary": "Score: 29 | Comments: 5",
+    "author": "hasheddan"
+  },
+  {
+    "id": "5d0f1ed149c934488ad92f5c36cdf382cb572a9e249c0076ff115eb445e7e942",
+    "title": "Kimi K3-256k",
+    "link": "https://www.kimi.com/code/docs/en/kimi-code/models",
+    "source": "Hacker News",
+    "published_at": "2026-07-29T19:25:33+00:00",
+    "summary": "Score: 438 | Comments: 127",
+    "author": "monneyboi"
+  },
+  {
+    "id": "c850a9a5ef4927afd6bfc1c35d915e3606ff9cc04ad02c3e50b04814cadcb7d0",
+    "title": "Kuna: Decompiler Development in the Age of Coding Agents",
+    "link": "https://noelo.org/blog/kuna-release/",
+    "source": "Hacker News",
+    "published_at": "2026-07-30T02:41:16+00:00",
+    "summary": "Score: 41 | Comments: 10",
+    "author": "matt_d"
   },
   {
     "id": "2c943f1486d07e51d291b2dbb44a3098cdc32749090ce297b6c5ff5b51f7ff63",

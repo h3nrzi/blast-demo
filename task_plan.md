@@ -32,6 +32,6 @@ Building a clean, responsive AI News & Article Dashboard using public RSS feeds,
 - [x] 4.3 Create local dev server `server.py` with `/api/articles`, `/api/bookmark`, and `/api/refresh` endpoints (Running on `http://localhost:8080`)
 
 ### Phase 5: Trigger (Deployment & Automation)
-- [ ] 5.1 Configure dev server startup & automatic feed refresh trigger
-- [ ] 5.2 Validate end-to-end self-healing and error handling
-- [ ] 5.3 Complete final maintenance & handoff log in `gemini.md`
+- [x] 5.1 Configure dev server startup & automatic feed refresh trigger (`server.py` & `/api/refresh`)
+- [x] 5.2 Validate end-to-end self-healing and error handling (Passed test run with 35 items)
+- [x] 5.3 Complete final maintenance & handoff log in `gemini.md` and lock project artifacts

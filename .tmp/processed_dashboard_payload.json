@@ -1,52 +1,28 @@
 {
   "articles": [
     {
-      "id": "7b9c5f12ff2690744846c23228a4f9c739e1a837b4d2566678f974f2dcfabf7e",
-      "title": "Superlogical",
-      "url": "https://www.superlogical.com/",
-      "source": "Hacker News",
-      "published_at": "2026-07-29T15:41:33+00:00",
-      "category": "Industry News",
-      "summary": "Score: 694 | Comments: 409",
-      "read_time": "1 min read",
-      "is_bookmarked": true,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
-    },
-    {
-      "id": "8eea91659561cd34c737f90b790cf5c59fdb66f771b18e5f8815098630265019",
-      "title": "The coolest use for the Vision Pro",
-      "url": "https://christianselig.com/2026/07/vision-pro-house/",
-      "source": "Hacker News",
-      "published_at": "2026-07-29T20:39:40+00:00",
-      "category": "Computer Vision",
-      "summary": "Score: 647 | Comments: 259",
-      "read_time": "1 min read",
-      "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
-    },
-    {
-      "id": "a41c9eabba36e5abb9414f4c1bb72ac9ff8b6ee9c1d8a61817b643c3e781aa4e",
-      "title": "AI's top startups are barely publishing their research",
-      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "source": "Hacker News",
-      "published_at": "2026-07-29T21:25:40+00:00",
-      "category": "Research & Ethics",
-      "summary": "Score: 450 | Comments: 233",
-      "read_time": "1 min read",
-      "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
-    },
-    {
       "id": "207147adf6b2816e76de26600b67ddcf4495ec5e0292e2318391d85c281af09d",
       "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
       "url": "https://github.com/drumih/turbo-fieldfare",
       "source": "Hacker News",
       "published_at": "2026-07-29T15:05:43+00:00",
       "category": "LLMs & Foundation Models",
-      "summary": "Score: 789 | Comments: 277",
+      "summary": "Score: 806 | Comments: 283",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
+    },
+    {
+      "id": "7b9c5f12ff2690744846c23228a4f9c739e1a837b4d2566678f974f2dcfabf7e",
+      "title": "Superlogical",
+      "url": "https://www.superlogical.com/",
+      "source": "Hacker News",
+      "published_at": "2026-07-29T15:41:33+00:00",
+      "category": "Industry News",
+      "summary": "Score: 705 | Comments: 413",
+      "read_time": "1 min read",
+      "is_bookmarked": true,
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
       "id": "9689cbc5c5f904d855083db7cadf15aabc9139a0ea1a7945806549511c8afe33",
@@ -55,46 +31,34 @@
       "source": "Hacker News",
       "published_at": "2026-07-29T22:51:03+00:00",
       "category": "LLMs & Foundation Models",
-      "summary": "Score: 239 | Comments: 61",
+      "summary": "Score: 260 | Comments: 68",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
-      "id": "891eee327ba50d288ec42f0a7aa94024fc1a2d85d2ecd23e35c2de2bb45fe4aa",
-      "title": "The Cold Email",
-      "url": "https://zachholman.com/posts/cold-email",
+      "id": "8eea91659561cd34c737f90b790cf5c59fdb66f771b18e5f8815098630265019",
+      "title": "The coolest use for the Vision Pro",
+      "url": "https://christianselig.com/2026/07/vision-pro-house/",
       "source": "Hacker News",
-      "published_at": "2026-07-29T21:06:42+00:00",
-      "category": "Industry News",
-      "summary": "Score: 204 | Comments: 81",
+      "published_at": "2026-07-29T20:39:40+00:00",
+      "category": "Computer Vision",
+      "summary": "Score: 673 | Comments: 262",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
-      "id": "60b8888c25bec54b7cfde2f2c3a9f213149a45d5b1b9897a9aa0612ce41ad293",
-      "title": "The Productivity Mirage",
-      "url": "https://frantic.im/mirage/",
+      "id": "a41c9eabba36e5abb9414f4c1bb72ac9ff8b6ee9c1d8a61817b643c3e781aa4e",
+      "title": "AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
       "source": "Hacker News",
-      "published_at": "2026-07-29T23:18:11+00:00",
-      "category": "Industry News",
-      "summary": "Score: 226 | Comments: 86",
+      "published_at": "2026-07-29T21:25:40+00:00",
+      "category": "Research & Ethics",
+      "summary": "Score: 479 | Comments: 245",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
-    },
-    {
-      "id": "0a5bc62a8d87c5d9d7e58d9075e98989d0ce5c9a232040e8751eac2de970d2f1",
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "source": "Hacker News",
-      "published_at": "2026-07-28T20:28:33+00:00",
-      "category": "AI Tools & Frameworks",
-      "summary": "Score: 379 | Comments: 211",
-      "read_time": "1 min read",
-      "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
       "id": "809585e3329dde207c565a5b3b4bed70137fcac452eba956475e5433b158cb8a",
@@ -103,22 +67,22 @@
       "source": "Hacker News",
       "published_at": "2026-07-29T16:36:59+00:00",
       "category": "AI Tools & Frameworks",
-      "summary": "Score: 374 | Comments: 150",
+      "summary": "Score: 382 | Comments: 152",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
-      "id": "b9a2cfe9d25ddcdd6280015d8b85b1bc29ad705a67e15000bbff3cf3b8b793bc",
-      "title": "Logic for Programmers",
-      "url": "https://logicforprogrammers.com/",
+      "id": "60b8888c25bec54b7cfde2f2c3a9f213149a45d5b1b9897a9aa0612ce41ad293",
+      "title": "The Productivity Mirage",
+      "url": "https://frantic.im/mirage/",
       "source": "Hacker News",
-      "published_at": "2026-07-30T00:51:39+00:00",
+      "published_at": "2026-07-29T23:18:11+00:00",
       "category": "Industry News",
-      "summary": "Score: 119 | Comments: 20",
+      "summary": "Score: 248 | Comments: 97",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
       "id": "52ecc21a8e6853e2e191142f06fa6e1c34ebea0d199630348bd3a9e4678b0c30",
@@ -127,34 +91,46 @@
       "source": "Hacker News",
       "published_at": "2026-07-27T06:38:54+00:00",
       "category": "Industry News",
-      "summary": "Score: 17 | Comments: 8",
+      "summary": "Score: 25 | Comments: 10",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
-      "id": "5d0f1ed149c934488ad92f5c36cdf382cb572a9e249c0076ff115eb445e7e942",
-      "title": "Kimi K3-256k",
-      "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+      "id": "0a5bc62a8d87c5d9d7e58d9075e98989d0ce5c9a232040e8751eac2de970d2f1",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
       "source": "Hacker News",
-      "published_at": "2026-07-29T19:25:33+00:00",
-      "category": "LLMs & Foundation Models",
-      "summary": "Score: 429 | Comments: 125",
+      "published_at": "2026-07-28T20:28:33+00:00",
+      "category": "AI Tools & Frameworks",
+      "summary": "Score: 386 | Comments: 212",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
-      "id": "f89b014af1b3cb7a021d6117346e90ba1eb30080282896d063f97a0be1e7cb2a",
-      "title": "ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison",
-      "url": "https://www.qoitech.com/blog/esp32-c6-power-consumption-comparison/",
+      "id": "891eee327ba50d288ec42f0a7aa94024fc1a2d85d2ecd23e35c2de2bb45fe4aa",
+      "title": "The Cold Email",
+      "url": "https://zachholman.com/posts/cold-email",
       "source": "Hacker News",
-      "published_at": "2026-07-25T18:27:41+00:00",
+      "published_at": "2026-07-29T21:06:42+00:00",
       "category": "Industry News",
-      "summary": "Score: 22 | Comments: 4",
+      "summary": "Score: 220 | Comments: 84",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
+    },
+    {
+      "id": "b9a2cfe9d25ddcdd6280015d8b85b1bc29ad705a67e15000bbff3cf3b8b793bc",
+      "title": "Logic for Programmers",
+      "url": "https://logicforprogrammers.com/",
+      "source": "Hacker News",
+      "published_at": "2026-07-30T00:51:39+00:00",
+      "category": "Industry News",
+      "summary": "Score: 131 | Comments: 25",
+      "read_time": "1 min read",
+      "is_bookmarked": false,
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
       "id": "26626e6524ef15f1e8fc442a16546bb154efbaec051e6998bea18db787e526fb",
@@ -163,22 +139,46 @@
       "source": "Hacker News",
       "published_at": "2026-07-29T14:43:47+00:00",
       "category": "Industry News",
-      "summary": "Score: 281 | Comments: 348",
+      "summary": "Score: 288 | Comments: 355",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
-      "id": "910151b049b28ff73def5d06d5d123c78dd010946a3a016ffdbef25f13895637",
-      "title": "Show HN: CheapFoodMap \u2013 A map of good meals under $10",
-      "url": "https://cheapfoodmap.com/",
+      "id": "f89b014af1b3cb7a021d6117346e90ba1eb30080282896d063f97a0be1e7cb2a",
+      "title": "ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison",
+      "url": "https://www.qoitech.com/blog/esp32-c6-power-consumption-comparison/",
       "source": "Hacker News",
-      "published_at": "2026-07-29T16:59:52+00:00",
+      "published_at": "2026-07-25T18:27:41+00:00",
       "category": "Industry News",
-      "summary": "Score: 207 | Comments: 191",
+      "summary": "Score: 29 | Comments: 5",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
+    },
+    {
+      "id": "5d0f1ed149c934488ad92f5c36cdf382cb572a9e249c0076ff115eb445e7e942",
+      "title": "Kimi K3-256k",
+      "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+      "source": "Hacker News",
+      "published_at": "2026-07-29T19:25:33+00:00",
+      "category": "LLMs & Foundation Models",
+      "summary": "Score: 438 | Comments: 127",
+      "read_time": "1 min read",
+      "is_bookmarked": false,
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
+    },
+    {
+      "id": "c850a9a5ef4927afd6bfc1c35d915e3606ff9cc04ad02c3e50b04814cadcb7d0",
+      "title": "Kuna: Decompiler Development in the Age of Coding Agents",
+      "url": "https://noelo.org/blog/kuna-release/",
+      "source": "Hacker News",
+      "published_at": "2026-07-30T02:41:16+00:00",
+      "category": "AI Tools & Frameworks",
+      "summary": "Score: 41 | Comments: 10",
+      "read_time": "1 min read",
+      "is_bookmarked": false,
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
       "id": "2c943f1486d07e51d291b2dbb44a3098cdc32749090ce297b6c5ff5b51f7ff63",
@@ -190,7 +190,7 @@
       "summary": "arXiv:2607.26119v1 Announce Type: new \nAbstract: Large reasoning models trained via reinforcement learning (RL) have been increasingly shown to outperform their supervised fine-tuned (SFT) counterparts on mathematical reasoning tasks; Yet the mechanistic basis for this advantage remains unclear. We ",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
       "id": "9a1fd24b765315fcd4334f7756d09cca126a087f21d4c4c311eb10e3f3596fd4",
@@ -202,7 +202,7 @@
       "summary": "arXiv:2607.26120v1 Announce Type: new \nAbstract: Large Language Models (LLMs)-powered multi-agent systems are increasingly deployed in mixed-motive environments, where agents operate under asymmetric information and strategic deception due to conflicting or hidden objectives. In these settings, misa",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
       "id": "72d17c55c01a64bda271dbb6c93ea3bd3acfcbd7d2d4c706fc82f64a4b467bb6",
@@ -214,7 +214,7 @@
       "summary": "arXiv:2607.26155v1 Announce Type: new \nAbstract: Clinical data-science agents must transform heterogeneous longitudinal records into auditable analyses, yet existing benchmarks largely isolate medical question answering, structured-table reasoning, or generic scientific repositories. We introduce CL",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
       "id": "869f9645fa3c064f334da30fa0a975b6e162739dfbd8f9e6169b9d2e5920eb6f",
@@ -226,7 +226,7 @@
       "summary": "arXiv:2607.26159v1 Announce Type: new \nAbstract: An AI benchmark result rarely reaches a consequential claim in one step. Evaluators generalize it to further cases, interpret it as evidence of capability, extrapolate it to new tasks, transport it to another system or site, and combine it with assump",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
       "id": "7ce58ba5cd5de33dbb09ae6abc582b53c95543346816d203feaadd67a983b933",
@@ -238,7 +238,7 @@
       "summary": "arXiv:2607.26160v1 Announce Type: new \nAbstract: Clinical practice guidelines (CPGs) encode diagnostic criteria, but LLM systems typically retrieve guideline text or absorb it through training rather than execute its rules. We introduce GuideSkill, an external reasoning layer that compiles disease-s",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
       "id": "8cb421652a76ab0e8eba5216d6c81396908dbd913ae36e80baa4dfda07a69e41",
@@ -250,7 +250,7 @@
       "summary": "arXiv:2607.26181v1 Announce Type: new \nAbstract: Functional verification dominates integrated circuit (IC) front-end engineering effort, and a single missed bug that escapes to silicon can trigger a costly respin. Recent large language models (LLMs) offer new opportunities to automate this process, ",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
       "id": "b46202b6f6d41a2597cb521225fefee4cacd6bf66f8ba89e618028aaca3e1e5e",
@@ -262,7 +262,7 @@
       "summary": "arXiv:2607.26191v1 Announce Type: new \nAbstract: Evaluation methodologies for language models increasingly combine multiple signals, from automated metrics and LLM-as-judge ratings to human assessments and benchmark suite results. When these signals are aggregated via averaging, evaluation confidenc",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
       "id": "85b865d568fc206c3d7659eef3d8cae4e62da37e33b8efe22a0f582f246d52ec",
@@ -274,7 +274,7 @@
       "summary": "arXiv:2607.26307v1 Announce Type: new \nAbstract: Contemporary LLM-based coding agents produce code as black-box outputs: the rationale behind each line is hidden, the evolution of the code through benchmark-driven repair is ephemeral, and post-hoc auditing is impossible. We present a code generation",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
       "id": "08a59f85e1740212e054552435cf1f976224926a37385236de4c175312122340",
@@ -286,7 +286,7 @@
       "summary": "arXiv:2607.26367v1 Announce Type: new \nAbstract: An important skill in theoretical physics is to recognize when a new problem can be transformed into a known model. We study this skill as an AI-agent task: can LLM-based agents discover statistical mechanical mappings from a raw partition function to",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
       "id": "77646b6f6089f88400515f258b0eb282a9f24880b6b0e635f318552de13e8fe1",
@@ -298,7 +298,7 @@
       "summary": "arXiv:2607.26393v1 Announce Type: new \nAbstract: Social deduction games (SDGs) such as Werewolf have become challenging testbeds for AI agents. These games require complex social skills such as reasoning, deception, and collaboration. While recent advances in large language models (LLMs) have driven",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
       "id": "698d8ac45b5aedcae5531eb12723b0b93c3c7d04a93fb4e3d1b60edc3253ad72",
@@ -310,7 +310,7 @@
       "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
       "id": "266041f07af2f1ffefca5ebe4aac9a23af86df6681ec0fe86bc9342d629bd273",
@@ -322,7 +322,7 @@
       "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
       "id": "9e4556074ae6094e9e12b026da57b16daaf3a2a39b608d59ab3de8dcd6b7c866",
@@ -334,7 +334,7 @@
       "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
       "id": "5f48b04c878246b399720758b095e8818188388072783ce3d110474e61759c21",
@@ -346,7 +346,7 @@
       "summary": "On the company\u2019s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a \u201clarge enterprise opportunity\u201d spanning AI agents, APIs, compute, and internal software.",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
       "id": "9fd9c402f3ff9e29d5a6f9bebc34497c68ad133ba051dc45148869dbad036310",
@@ -358,7 +358,7 @@
       "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
       "id": "de3a773a19c41f5fef76e8a4d66ae8e358a187ab0e2879029486c33269c8cd1c",
@@ -370,7 +370,7 @@
       "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
       "id": "1c20849100f8520cd5210d5c52fed613458c166e5f452b7d41712a03b137d5bd",
@@ -382,7 +382,7 @@
       "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
       "id": "214eb244bea338024adc8d1a16e3f098250061333e86886eb89a209b34e3a5bf",
@@ -394,7 +394,7 @@
       "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
       "id": "2fd39eedf252070e38801952ffc5a8f85f3ae3b7a621bcff521efb7b90389da2",
@@ -406,7 +406,7 @@
       "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an \u201cAI for your home,\u201d combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     },
     {
       "id": "c729914be5da8ba3fb8f935d83265d144c712abdb7c2c411a530c1d6b29e960a",
@@ -418,7 +418,7 @@
       "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
       "read_time": "1 min read",
       "is_bookmarked": false,
-      "fetched_at": "2026-07-30T09:24:50.709403+00:00"
+      "fetched_at": "2026-07-30T10:16:49.377472+00:00"
     }
   ],
   "metadata": {
@@ -430,6 +430,6 @@
       "Research & Ethics",
       "Industry News"
     ],
-    "last_updated": "2026-07-30T09:24:50.709403+00:00"
+    "last_updated": "2026-07-30T10:16:49.377472+00:00"
   }
 }
